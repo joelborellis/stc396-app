@@ -1,0 +1,3 @@
+### DO NOT INCLUDE IN GIT REPO ###
+#for secrets files locally
+.streamlit/secrets.toml
